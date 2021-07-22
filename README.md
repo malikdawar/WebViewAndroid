@@ -1,7 +1,6 @@
 # WebViewAndroid
 
-## A complete example of android webview, in this example you can get the idea how the transections between web pages and the native android component make place.
-## like if someone need a control from web page and vise versa then how can we create a  bridge between two different plat forms.
+ A complete example of android webview, in this example you can get the idea how the transections between web pages and the native android component make place. like if someone need a control from web page and vise versa then how can we create a  bridge between two different plat forms.
 
 
 # Binding JavaScript to Android code
